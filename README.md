@@ -1,5 +1,9 @@
 📘 Book Suggestion App - README
+
+
 This is my final project for the Python certification course. I created a simple book suggestion app using Python. It uses the Google Books API to get real book data, filters the results based on user input, and gives a random book recommendation.
+
+
 ✅ What This App Does
 
 - Takes your favorite genre as input
@@ -8,6 +12,8 @@ This is my final project for the Python certification course. I created a simple
 - Shows one random book based on your filters
 
 🧪 How to Run the App
+
+
 1. Install Python Libraries
 Make sure you have Python installed. Then, open your terminal or command prompt and install the libraries:
 pip install requests pandas
@@ -71,3 +77,13 @@ Python-Project-Submission/
 
 ✨ Final Thoughts
 I enjoyed building this project and learned a lot about using APIs, pandas, and handling errors in Python. Thank you for reviewing my submission!
+
+📥 EXE Download
+You can download the executable version of the app using the link below:
+👉 [Download book_suggestion_app.exe from Google Drive](https://drive.google.com/file/d/1ZqGEvjqaR7D0ibBRzstxn_ycHpZS4dKo/view?usp=sharing)
+
+🔗 GitHub Repository
+You can view the complete source code and project files on GitHub:
+👉 https://github.com/Shravanipalanisamy/Python-Project-Submission
+
+👤 Author: Shravani Palanisamy
